@@ -11,6 +11,7 @@ nest_asyncio.apply()
 import os
 from time import sleep
 import datetime
+import rule34 as r34
 
 
 tk = os.environ['DISCORD_BOT']
@@ -64,6 +65,8 @@ bot = commands.Bot(command_prefix='!')
 bot.remove_command('help')
 filmes = []
 msg_vot = 0
+
+r = r34.Sync()
 
 @bot.command(description='Adiciona filme na lista de filmes')
 async def filme_add(ctx, *args):
@@ -537,6 +540,18 @@ async def encerrar_votacao(ctx):
     #await ctx.channel.send(filmes)
     await ctx.channel.send(f'O vencedor foi: {list(filmes[filme_ve].keys())[0]} com {votos_vencedor - 1} voto(s)')
 
+@bot.command(description='Busca uma imagem de rule34.xxx')
+async def rule34(ctx, *args):
+	global r
+	arg = ' '.join(args)
+	try:
+		img = choice(r.getImages(arg)).file_url
+		img = r.download(img)
+		await ctx.channel.send(file=discord.File(img))
+		os.remove(img)
+	except:
+		await ctx.channel.send(f"Nao foi possivel encontrar {arg}")
+	
 
 @bot.event
 async def on_ready():
