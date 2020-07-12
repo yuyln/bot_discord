@@ -1,4 +1,4 @@
-﻿import discord
+﻿﻿import discord
 import nest_asyncio
 import googlesearch as gl
 import requests as rq
@@ -596,7 +596,7 @@ async def rule34(ctx, *args):
 
 @bot.event
 async def on_ready():
-    print("O bot principal 3 esta sendo executado")
+    print("O bot principal 4 esta sendo executado")
 
 r = r34.Rule34(None)
 asyncio.run(bot.start(tk))
