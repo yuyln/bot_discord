@@ -596,7 +596,7 @@ async def rule34(ctx, *args):
 
 @bot.event
 async def on_ready():
-    print("O bot principal 1 esta sendo executado")
+    print("O bot principal 3 esta sendo executado")
 
 r = r34.Rule34(None)
 asyncio.run(bot.start(tk))
