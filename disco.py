@@ -582,7 +582,7 @@ async def encerrar_votacao(ctx):
 
 @bot.command(description='Busca uma imagem de rule34.xxx')
 async def rule34(ctx, *args):
-    global r
+    r = r34.Rule34(None)
     arg = ' '.join(args)
     try:
         img = await r.getImages(arg)
@@ -596,7 +596,6 @@ async def rule34(ctx, *args):
 
 @bot.event
 async def on_ready():
-    print("O bot principal 8 esta sendo executado")
+    print("O bot principal 9 esta sendo executado")
 
-r = r34.Rule34(None)
 bot.run(tk)
