@@ -1,1 +1,1 @@
-worker: python disco.py
+web: python disco.py
