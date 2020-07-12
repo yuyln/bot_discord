@@ -596,8 +596,6 @@ async def rule34(ctx, *args):
 
 @bot.event
 async def on_ready():
-    print("O bot principal 12 esta sendo executado")
+    print("O bot principal 13 esta sendo executado")
 
-send_fut = asyncio.run_coroutine_threadsafe(bot.run(tk))
-# wait for the coroutine to finish
-send_fut.result()
+asyncio.run_coroutine_threadsafe(bot.run(tk))
