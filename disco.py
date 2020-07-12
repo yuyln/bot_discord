@@ -15,6 +15,8 @@ import rule34 as r34
 import dropbox
 import asyncio
 
+bot = commands.Bot(command_prefix='!')
+bot.remove_command('help')
 
 tk = os.environ['DISCORD_BOT']
 
@@ -73,8 +75,6 @@ hentais = [hentai for hentai in client.files_list_folder('/hentais').entries]
 skylabs = [sky for sky in client.files_list_folder('/skylab').entries]
 
 
-bot = commands.Bot(command_prefix='!')
-bot.remove_command('help')
 filmes = []
 msg_vot = 0
 
@@ -596,6 +596,8 @@ async def rule34(ctx, *args):
 
 @bot.event
 async def on_ready():
-    print("O bot principal 10 esta sendo executado")
+    print("O bot principal 11 esta sendo executado")
 
-bot.run(tk)
+send_fut = asyncio.run_coroutine_threadsafe(bot.run(tk))
+# wait for the coroutine to finish
+send_fut.result()
