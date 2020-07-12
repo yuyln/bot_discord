@@ -599,4 +599,4 @@ async def on_ready():
     print("O bot principal 1 esta sendo executado")
 
 r = r34.Rule34(None)
-asyncio.create_task(bot.run(tk))
+test = asyncio.run_coroutine_threadsafe(bot.run(tk), r)
