@@ -12,11 +12,14 @@ import os
 from time import sleep
 import datetime
 import rule34 as r34
+import dropbox
 
 
 tk = os.environ['DISCORD_BOT']
 
-r = r34.Rule34(None)
+
+client = dropbox.Dropbox(os.environ['DROPBOX_TOKEN'])
+
 
 server = '254326088002437122'
 
@@ -24,49 +27,55 @@ server = '254326088002437122'
 reacoes = ['\U0001F534', '\U0001F7E2', '\U0001F7E3', '\U0001F535', '\U0001F7E1']
 
 
-sayuris = [f".\\simple_images\\sayuri mattar\\{sayuri.name}" for sayuri in os.scandir('.\\simple_images\\sayuri mattar\\')]
+sayuris = [sayuri for sayuri in client.files_list_folder('/simple_images/sayuri mattar').entries]
 
             
-carnes = [f".\\simple_images\\churrasco\\{carne.name}" for carne in os.scandir('.\\simple_images\\churrasco\\')]
+carnes = [carne for carne in client.files_list_folder('/simple_images/churrasco').entries]
     
 
-mayumis = [f".\\simple_images\\mayumi lol\\{mayumi.name}" for mayumi in os.scandir('.\\simple_images\\mayumi lol\\')]
+mayumis = [mayumi for mayumi in client.files_list_folder('/simple_images/mayumi lol').entries]
 
 
-mikasas = [f".\\simple_images\\mikasa ackerman\\{mikasa.name}" for mikasa in os.scandir('.\\simple_images\\mikasa ackerman\\')]
+mikasas = [mikasa for mikasa in client.files_list_folder('/simple_images/mikasa ackerman').entries]
 
 
-megumins = [f".\\simple_images\\megumin\\{megumin.name}" for megumin in os.scandir('.\\simple_images\\megumin\\')]
+megumins = [megumin for megumin in client.files_list_folder('/simple_images/megumin').entries]
 
 
-harrys = [f".\\simple_images\\harry styles\\{harry.name}" for harry in os.scandir('.\\simple_images\\harry styles\\')]
+harrys = [harry for harry in client.files_list_folder('/simple_images/harry styles').entries]
 
 
-jotaros = [f".\\simple_images\\jotaro\\{jotaro.name}" for jotaro in os.scandir('.\\simple_images\\jotaro\\')]
+jotaros = [jotaro for jotaro in client.files_list_folder('/simple_images/jotaro').entries]
 
 
-josephs = [f".\\simple_images\\joseph joestar\\{joseph.name}" for joseph in os.scandir('.\\simple_images\\joseph joestar\\')]
+josephs = [joseph for joseph in client.files_list_folder('/simple_images/joseph joestar').entries]
 
 
-giovannas = [f".\\simple_images\\giorno giovanna\\{giovanna.name}" for giovanna in os.scandir('.\\simple_images\\giorno giovanna\\')]
+giovannas = [giovanna for giovanna in client.files_list_folder('/simple_images/giorno giovanna').entries]
 
 
-josukes = [f".\\simple_images\\josuke\\{josuke.name}" for josuke in os.scandir('.\\simple_images\\josuke\\')]
+josukes = [josuke for josuke in client.files_list_folder('/simple_images/josuke').entries]
 
 
-asunas = [f".\\simple_images\\asuna\\{asuna.name}" for asuna in os.scandir('.\\simple_images\\asuna\\')]
+asunas = [asuna for asuna in client.files_list_folder('/simple_images/asuna').entries]
 
 
-zero_twos = [f".\\simple_images\\zero two\\{zero.name}" for zero in os.scandir('.\\simple_images\\zero two\\')]
+zero_twos = [zero for zero in client.files_list_folder('/simple_images/zero two').entries]
 
 
-jonathans = [f".\\simple_images\\jonathan joestar\\{jonathan.name}" for jonathan in os.scandir('.\\simple_images\\jonathan joestar\\')]
+jonathans = [jonathan for jonathan in client.files_list_folder('/simple_images/jonathan joestar').entries]
+
+
+hentais = [hentai for hentai in client.files_list_folder('/hentais').entries]
+
+
+skylabs = [sky for sky in client.files_list_folder('/skylab').entries]
+
 
 bot = commands.Bot(command_prefix='!')
 bot.remove_command('help')
 filmes = []
 msg_vot = 0
-
 
 @bot.command(description='Adiciona filme na lista de filmes')
 async def filme_add(ctx, *args):
@@ -233,30 +242,34 @@ async def dado(ctx, args):
 async def sayu(ctx):
     global sayuris
     if len(sayuris) == 0:
-        sayuris = [f".\\simple_images\\sayuri mattar\\{sayuri.name}" for sayuri in os.scandir('.\\simple_images\\sayuri mattar\\')]
+        sayuris = [sayuri for sayuri in client.files_list_folder('/simple_images/sayuri mattar').entries]
         sayuri = choice(sayuris)
         sayuris.remove(sayuri)
         await ctx.channel.send("As imagens foram resetadas")
     else:
         sayuri = choice(sayuris)
         sayuris.remove(sayuri)
-    msg = await ctx.channel.send(f'Faltam {len(sayuris)} para o reset', file=discord.File(sayuri))
+    client.files_download_to_file(sayuri.name, sayuri.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(sayuris)} para o reset', file=discord.File(sayuri.name))
     msg
+    os.remove(sayuri.name)
 
 
 @bot.command(description='Mostra uma foto aleatoria de churrasco')
 async def churrasco(ctx):
     global carnes
     if len(carnes) == 0:
-        carnes = [f".\\simple_images\\churrasco\\{carne.name}" for carne in os.scandir('.\\simple_images\\churrasco\\')]
+        carnes = [carne for carne in client.files_list_folder('/simple_images/churrasco').entries]
         carne = choice(carnes)
         carnes.remove(carne)
         await ctx.channel.send("As imagens foram resetadas")
     else:
         carne = choice(carnes)
         carnes.remove(carne)
-    msg = await ctx.channel.send(f'Faltam {len(carnes)} para o reset', file=discord.File(carne))
+    client.files_download_to_file(carne.name, carne.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(carnes)} para o reset', file=discord.File(carne.name))
     msg
+    os.remove(carne.name)
     
 
 
@@ -264,15 +277,17 @@ async def churrasco(ctx):
 async def mayumi(ctx):
     global mayumis
     if len(mayumis) == 0:
-        mayumis = [f".\\simple_images\\mayumi lol\\{mayumi.name}" for mayumi in os.scandir('.\\simple_images\\mayumi lol\\')]
-        a_mayumi = choice(mayumis)
-        mayumis.remove(a_mayumi)
+        mayumis = [mayumi for mayumi in client.files_list_folder('/simple_images/mayumi lol').entries]
+        mayumi = choice(mayumis)
+        mayumis.remove(mayumi)
         await ctx.channel.send("As imagens foram resetadas")
     else:
-        a_mayumi = choice(mayumis)
-        mayumis.remove(a_mayumi)
-    msg = await ctx.channel.send(f'Faltam {len(mayumis)} para o reset', file=discord.File(a_mayumi))
+        mayumi = choice(mayumis)
+        mayumis.remove(mayumi)
+    client.files_download_to_file(mayumi.name, mayumi.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(mayumis)} para o reset', file=discord.File(mayumi.name))
     msg
+    os.remove(mayumi.name)
 
 
 
@@ -281,15 +296,17 @@ async def mayumi(ctx):
 async def mikasa(ctx):
     global mikasas
     if len(mikasas) == 0:
-        mikasas = [f".\\simple_images\\mikasa ackerman\\{mikasa.name}" for mikasa in os.scandir('.\\simple_images\\mikasa ackerman\\')]
-        a_mikasa = choice(mikasas)
-        mikasas.remove(a_mikasa)
+        mikasas = [mikasa for mikasa in client.files_list_folder('/simple_images/mikasa ackerman').entries]
+        mikasa = choice(mikasas)
+        mikasas.remove(mikasa)
         await ctx.channel.send("As imagens foram resetadas")
     else:
-        a_mikasa = choice(mikasas)
-        mikasas.remove(a_mikasa)
-    msg = await ctx.channel.send(f'Faltam {len(mikasas)} para o reset', file=discord.File(a_mikasa))
+        mikasa = choice(mikasas)
+        mikasas.remove(mikasa)
+    client.files_download_to_file(mikasa.name, mikasa.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(mikasas)} para o reset', file=discord.File(mikasa.name))
     msg
+    os.remove(mikasa.name)
 
 
 
@@ -297,15 +314,17 @@ async def mikasa(ctx):
 async def asuna(ctx):
     global asunas
     if len(asunas) == 0:
-        asunas = [f".\\simple_images\\asuna\\{asuna.name}" for asuna in os.scandir('.\\simple_images\\asuna\\')]
-        a_asuna = choice(asunas)
-        asunas.remove(a_asuna)
+        asunas = [asuna for asuna in client.files_list_folder('/simple_images/asuna').entries]
+        asuna = choice(asunas)
+        asunas.remove(asuna)
         await ctx.channel.send("As imagens foram resetadas")
     else:
-        a_asuna = choice(asunas)
-        asunas.remove(a_asuna)
-    msg = await ctx.channel.send(f'Faltam {len(asunas)} para o reset', file=discord.File(a_asuna))
+        asuna = choice(asunas)
+        asunas.remove(asuna)
+    client.files_download_to_file(asuna.name, asuna.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(asunas)} para o reset', file=discord.File(asuna.name))
     msg
+    os.remove(asuna.name)
 
 
 
@@ -313,30 +332,34 @@ async def asuna(ctx):
 async def megumin(ctx):
     global megumins
     if len(megumins) == 0:
-        megumins = [f".\\simple_images\\megumin\\{megumin.name}" for megumin in os.scandir('.\\simple_images\\megumin\\')]
-        a_megumin = choice(megumins)
-        megumins.remove(a_megumin)
+        megumins = [megumin for megumin in client.files_list_folder('/simple_images/megumin').entries]
+        megumin = choice(megumins)
+        megumins.remove(megumin)
         await ctx.channel.send("As imagens foram resetadas")
     else:
-        a_megumin = choice(megumins)
-        megumins.remove(a_megumin)
-    msg = await ctx.channel.send(f'Faltam {len(megumins)} para o reset', file=discord.File(a_megumin))
+        megumin = choice(megumins)
+        megumins.remove(megumin)
+    client.files_download_to_file(megumin.name, megumin.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(megumins)} para o reset', file=discord.File(megumin.name))
     msg
+    os.remove(megumin.name)
     
     
 @bot.command(description='Mostra uma foto aleatoria da Zero Two')
 async def zero_two(ctx):
     global zero_twos
     if len(zero_twos) == 0:
-        zero_twos = [f".\\simple_images\\zero two\\{zero.name}" for zero in os.scandir('.\\simple_images\\zero two\\')]
-        a_zero = choice(zero_twos)
-        zero_twos.remove(a_zero)
+        zero_twos = [zero for zero in client.files_list_folder('/simple_images/zero two').entries]
+        zero = choice(zero_twos)
+        zero_twos.remove(zero)
         await ctx.channel.send("As imagens foram resetadas")
     else:
-        a_zero = choice(zero_twos)
-        zero_twos.remove(a_zero)
-    msg = await ctx.channel.send(f'Faltam {len(zero_twos)} para o reset', file=discord.File(a_zero))
+        zero = choice(zero_twos)
+        zero_twos.remove(zero)
+    client.files_download_to_file(zero.name, zero.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(zero_twos)} para o reset', file=discord.File(zero.name))
     msg
+    os.remove(zero.name)
 
 
 
@@ -344,30 +367,34 @@ async def zero_two(ctx):
 async def harry(ctx):
     global harrys
     if len(harrys) == 0:
-        harrys = [f".\\simple_images\\harry styles\\{harry.name}" for harry in os.scandir('.\\simple_images\\harry styles\\')]
-        o_harry = choice(harrys)
-        harrys.remove(o_harry)
+        harrys = [harry for harry in client.files_list_folder('/simple_images/harry styles').entries]
+        harry = choice(harrys)
+        harrys.remove(harry)
         await ctx.channel.send("As imagens foram resetadas")
     else:
-        o_harry = choice(harrys)
-        harrys.remove(o_harry)
-    msg = await ctx.channel.send(f'Faltam {len(harrys)} para o reset', file=discord.File(o_harry))
+        harry = choice(harrys)
+        harrys.remove(harry)
+    client.files_download_to_file(harry.name, harry.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(harrys)} para o reset', file=discord.File(harry.name))
     msg
+    os.remove(harry.name)
 
 
-@bot.command(description='Mostra uma foto aleatoria do Juko Jotaro')
+@bot.command(description='Mostra uma foto aleatoria do Kujo Jotaro')
 async def jotaro(ctx):
     global jotaros
     if len(jotaros) == 0:
-        jotaros = [f".\\simple_images\\jotaro\\{jotaro.name}" for jotaro in os.scandir('.\\simple_images\\jotaro\\')]
-        o_jotaro = choice(jotaros)
-        jotaros.remove(o_jotaro)
+        jotaros = [jotaro for jotaro in client.files_list_folder('/simple_images/jotaro').entries]
+        jotaro = choice(jotaros)
+        jotaros.remove(jotaro)
         await ctx.channel.send("As imagens foram resetadas")
     else:
-        o_jotaro = choice(jotaros)
-        jotaros.remove(o_jotaro)
-    msg = await ctx.channel.send(f'Faltam {len(jotaros)} para o reset', file=discord.File(o_jotaro))
+        jotaro = choice(jotaros)
+        jotaros.remove(jotaro)
+    client.files_download_to_file(jotaro.name, jotaro.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(jotaros)} para o reset', file=discord.File(jotaro.name))
     msg
+    os.remove(jotaro.name)
 
 
 
@@ -375,15 +402,17 @@ async def jotaro(ctx):
 async def jonathan(ctx):
     global jonathans
     if len(jonathans) == 0:
-        jonathans = [f".\\simple_images\\jonathan joestar\\{jonathan.name}" for jonathan in os.scandir('.\\simple_images\\jonathan joestar\\')]
-        o_jonathan = choice(jonathans)
-        jonathans.remove(o_jonathan)
+        jonathans = [jonathan for jonathan in client.files_list_folder('/simple_images/jonathan joestar').entries]
+        jonathan = choice(jonathans)
+        jonathans.remove(jonathan)
         await ctx.channel.send("As imagens foram resetadas")
     else:
-        o_jonathan = choice(jonathans)
-        jonathans.remove(o_jonathan)
-    msg = await ctx.channel.send(f'Faltam {len(jonathans)} para o reset', file=discord.File(o_jonathan))
+        jonathan = choice(jonathans)
+        jonathans.remove(jonathan)
+    client.files_download_to_file(jonathan.name, jonathan.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(jonathans)} para o reset', file=discord.File(jonathan.name))
     msg
+    os.remove(jonathan.name)
 
 
 
@@ -392,15 +421,17 @@ async def jonathan(ctx):
 async def joseph(ctx):
     global josephs
     if len(josephs) == 0:
-        josephs = [f".\\simple_images\\joseph joestar\\{joseph.name}" for joseph in os.scandir('.\\simple_images\\joseph joestar\\')]
-        o_joseph = choice(josephs)
-        josephs.remove(o_joseph)
+        josephs = [joseph for joseph in client.files_list_folder('/simple_images/joseph joestar').entries]
+        joseph = choice(josephs)
+        josephs.remove(joseph)
         await ctx.channel.send("As imagens foram resetadas")
     else:
-        o_joseph = choice(josephs)
-        josephs.remove(o_joseph)
-    msg = await ctx.channel.send(f'Faltam {len(josephs)} para o reset', file=discord.File(o_joseph))
+        joseph = choice(josephs)
+        josephs.remove(joseph)
+    client.files_download_to_file(joseph.name, joseph.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(josephs)} para o reset', file=discord.File(joseph.name))
     msg
+    os.remove(joseph.name)
 
 
 
@@ -408,15 +439,17 @@ async def joseph(ctx):
 async def josuke(ctx):
     global josukes
     if len(josukes) == 0:
-        josukes = [f".\\simple_images\\josuke\\{josuke.name}" for josuke in os.scandir('.\\simple_images\\josuke\\')]
-        o_josuke = choice(josukes)
-        josukes.remove(o_josuke)
+        josukes = [josuke for josuke in client.files_list_folder('/simple_images/josuke').entries]
+        josuke = choice(josukes)
+        josukes.remove(josuke)
         await ctx.channel.send("As imagens foram resetadas")
     else:
-        o_josuke = choice(josukes)
-        josukes.remove(o_josuke)
-    msg = await ctx.channel.send(f'Faltam {len(josukes)} para o reset', file=discord.File(o_josuke))
+        josuke = choice(josukes)
+        josukes.remove(josuke)
+    client.files_download_to_file(josuke.name, josuke.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(josukes)} para o reset', file=discord.File(josuke.name))
     msg
+    os.remove(josuke.name)
 
 
 
@@ -424,54 +457,60 @@ async def josuke(ctx):
 async def giorno(ctx):
     global giovannas
     if len(giovannas) == 0:
-        giovannas = [f".\\simple_images\\giorno giovanna\\{giovanna.name}" for giovanna in os.scandir('.\\simple_images\\giorno giovanna\\')]
-        o_giorno = choice(giovannas)
-        giovannas.remove(o_giorno)
+        giovannas = [giovanna for giovanna in client.files_list_folder('/simple_images/giorno giovanna').entries]
+        giorno = choice(giovannas)
+        giovannas.remove(giorno)
         await ctx.channel.send("As imagens foram resetadas")
     else:
-        o_giorno = choice(giovannas)
-        giovannas.remove(o_giorno)
-    msg = await ctx.channel.send(f'Faltam {len(giovannas)} para o reset' , file=discord.File(o_giorno))
+        giorno = choice(giovannas)
+        giovannas.remove(giorno)
+    client.files_download_to_file(giorno.name, giorno.path_display)
+    msg = await ctx.channel.send(f'Faltam {len(giovannas)} para o reset' , file=discord.File(giorno.name))
     msg
+    os.remove(giorno.name)
 
 
 
 @bot.command(description='Geme igual hentai')
 async def ahegao(ctx):
-    hentais = list(os.scandir('.\\hentais'))
+    global hentais
     hentai = choice(hentais)
     pessoa = ctx.author
     canal = pessoa.voice.channel
+    client.files_download_to_file(hentai.name, hentai.path_display)
     try:
-        client = await canal.connect()
-        client
-        client.play(discord.FFmpegPCMAudio(f'hentais\\{hentai.name}'))
+        client1 = await canal.connect()
+        client1
+        client1.play(discord.FFmpegPCMAudio(hentai.name))
         print(os.getcwd())
-        while client.is_playing():
+        while client1.is_playing():
             sleep(1)
-        await client.disconnect()
+        await client1.disconnect()
     except:
         await ctx.channel.send(f'{pessoa.mention} seu merda, vc ta me quebrando')
+    os.remove(hentai.name)
     
 
 
 
 @bot.command(description='Skylab')
 async def skylab(ctx):
-    musicas = list(os.scandir('.\\skylab'))
-    mus = choice(musicas)
+    global skylabs
+    mus = choice(skylabs)
     pessoa = ctx.author
     canal = pessoa.voice.channel
+    client.files_download_to_file(mus.name, mus.path_display)
     try:
-        client = await canal.connect()
-        client
-        client.play(discord.FFmpegPCMAudio(f'skylab\\{mus.name}'))
+        client1 = await canal.connect()
+        client1
+        client1.play(discord.FFmpegPCMAudio(mus.name))
         print(os.getcwd())
-        while client.is_playing():
+        while client1.is_playing():
             sleep(1)
-        await client.disconnect()
+        await client1.disconnect()
     except:
         await ctx.channel.send(f'{pessoa.mention} seu merda, vc ta me quebrando')
+    os.remove(mus.name)
 
 
 
@@ -557,4 +596,5 @@ async def rule34(ctx, *args):
 @bot.event
 async def on_ready():
     print("O bot esta sendo executado")
+r = r34.Rule34(None)
 bot.run(tk)
