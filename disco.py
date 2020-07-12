@@ -599,5 +599,4 @@ async def on_ready():
     print("O bot principal esta sendo executado")
 
 r = r34.Rule34(None)
-
-asyncio.run(bot.run(tk))
+asyncio.create_task(bot.run(tk))
