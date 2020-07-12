@@ -16,6 +16,7 @@ import rule34 as r34
 
 tk = os.environ['DISCORD_BOT']
 
+r = r34.Rule34(None)
 
 server = '254326088002437122'
 
@@ -66,7 +67,6 @@ bot.remove_command('help')
 filmes = []
 msg_vot = 0
 
-r = r34.Sync()
 
 @bot.command(description='Adiciona filme na lista de filmes')
 async def filme_add(ctx, *args):
@@ -542,15 +542,16 @@ async def encerrar_votacao(ctx):
 
 @bot.command(description='Busca uma imagem de rule34.xxx')
 async def rule34(ctx, *args):
-	global r
-	arg = ' '.join(args)
-	try:
-		img = choice(r.getImages(arg)).file_url
-		img = r.download(img)
-		await ctx.channel.send(file=discord.File(img))
-		os.remove(img)
-	except:
-		await ctx.channel.send(f"Nao foi possivel encontrar {arg}")
+    global r
+    arg = ' '.join(args)
+    try:
+        img = await r.getImages(arg)
+        img = choice(img).file_url
+        img = await r.download(img)
+        await ctx.channel.send(file=discord.File(img))
+        os.remove(img)
+    except:
+        await ctx.channel.send(f"Nao foi possivel encontrar {arg}")
 	
 
 @bot.event
