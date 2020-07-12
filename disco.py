@@ -582,12 +582,12 @@ async def encerrar_votacao(ctx):
 
 @bot.command(description='Busca uma imagem de rule34.xxx')
 async def rule34(ctx, *args):
-    r = r34.Rule34(None)
+    r = r34.Sync()#(None)
     arg = ' '.join(args)
     try:
-        img = await r.getImages(arg)
+        img = r.getImages(arg)#await r.getImages(arg)
         img = choice(img).file_url
-        img = await r.download(img)
+        img = r.download(img)#await r.download(img)
         await ctx.channel.send(file=discord.File(img))
         os.remove(img)
     except:
@@ -596,6 +596,6 @@ async def rule34(ctx, *args):
 
 @bot.event
 async def on_ready():
-    print("O bot principal 9 esta sendo executado")
+    print("O bot principal 10 esta sendo executado")
 
 bot.run(tk)
