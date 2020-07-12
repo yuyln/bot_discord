@@ -34,3 +34,12 @@ Nome Server: server bot
 ID Server: 714727821385138217
 Data: 02:28:12 - 12/07/2020
 ------------------------------
+Mensagem: oi
+Mensagem ID:731750194340691999
+Quantidade: 5
+Pessoa: fucking weeb
+ID Pessoa: 250008522454990848
+Nome Server: server bot
+ID Server: 714727821385138217
+Data: 02:53:58 - 12/07/2020
+------------------------------

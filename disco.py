@@ -557,7 +557,7 @@ async def floodar(ctx, *args):
 
     if quant <= max:
         for i in range(quant):
-            ctx.channel.send(f'{msg} - {i + 1} de {int(quant)}')
+            await ctx.channel.send(f'{msg} - {i + 1} de {int(quant)}')
     else:
        await ctx.channel.send(f'Ow namoralzinha ai {pessoa.mention}, vai se foder, floodar {quant} msgs é coisa de psicopata, flooda {max} ai namoral') 
 
@@ -596,7 +596,13 @@ async def rule34(ctx, *args):
 
 @bot.event
 async def on_ready():
-    print("O bot principal 6 esta sendo executado")
+    print("O bot principal 7 esta sendo executado")
 
 r = r34.Rule34(None)
-asyncio.run(bot.start(tk))
+try:
+    loop = asyncio.set_event_loop(bot.run(tk))
+except KeyboardInterrupt:
+    loop.run_until_complete(bot.logout())
+    # cancel all tasks lingering
+finally:
+    loop.close()
