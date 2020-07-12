@@ -596,13 +596,7 @@ async def rule34(ctx, *args):
 
 @bot.event
 async def on_ready():
-    print("O bot principal 7 esta sendo executado")
+    print("O bot principal 8 esta sendo executado")
 
 r = r34.Rule34(None)
-try:
-    loop = asyncio.set_event_loop(bot.run(tk))
-except KeyboardInterrupt:
-    loop.run_until_complete(bot.logout())
-    # cancel all tasks lingering
-finally:
-    loop.close()
+bot.run(tk)
