@@ -13,10 +13,7 @@ from time import sleep
 import datetime
 import rule34 as r34
 import dropbox
-import asyncio
 
-bot = commands.Bot(command_prefix='!')
-bot.remove_command('help')
 
 tk = os.environ['DISCORD_BOT']
 
@@ -29,15 +26,9 @@ server = '254326088002437122'
 
 reacoes = ['\U0001F534', '\U0001F7E2', '\U0001F7E3', '\U0001F535', '\U0001F7E1']
 
-
-sayuris = [sayuri for sayuri in client.files_list_folder('/simple_images/sayuri mattar').entries]
-
             
 carnes = [carne for carne in client.files_list_folder('/simple_images/churrasco').entries]
     
-
-mayumis = [mayumi for mayumi in client.files_list_folder('/simple_images/mayumi lol').entries]
-
 
 mikasas = [mikasa for mikasa in client.files_list_folder('/simple_images/mikasa ackerman').entries]
 
@@ -75,6 +66,8 @@ hentais = [hentai for hentai in client.files_list_folder('/hentais').entries]
 skylabs = [sky for sky in client.files_list_folder('/skylab').entries]
 
 
+bot = commands.Bot(command_prefix='!')
+bot.remove_command('help')
 filmes = []
 msg_vot = 0
 
@@ -159,9 +152,7 @@ async def ajuda(ctx):
 async def gostosa(ctx):
     gostosas = []
     gostosas_id = 696894726485442580
-    #gostosas_id = 715109054321655868
     pessoas = [pessoa for pessoa in ctx.guild.members]
-    #pessoas_roles = [[role.id for role in pessoa.roles] for pessoa in pessoas]
     for pessoa in pessoas:
         for role in pessoa.roles:
             if role.id == gostosas_id:
@@ -175,9 +166,7 @@ async def gostosa(ctx):
 async def gostoso(ctx):
     gostosos = []
     gostosos_id = 550176858717552642
-    #gostosas_id = 715109054321655868
     pessoas = [pessoa for pessoa in ctx.guild.members]
-    #pessoas_roles = [[role.id for role in pessoa.roles] for pessoa in pessoas]
     for pessoa in pessoas:
         for role in pessoa.roles:
             if role.id == gostosos_id:
@@ -237,25 +226,6 @@ async def dado(ctx, args):
     else:
         await ctx.channel.send(f'PQ CARALHOS VC QR UM DADOS DE {lados} LADOS? VAI SE FODER')
 
-
-
-@bot.command(description='Mostra uma foto aleatoria da Sayuri Mattar')
-async def sayu(ctx):
-    global sayuris
-    if len(sayuris) == 0:
-        sayuris = [sayuri for sayuri in client.files_list_folder('/simple_images/sayuri mattar').entries]
-        sayuri = choice(sayuris)
-        sayuris.remove(sayuri)
-        await ctx.channel.send("As imagens foram resetadas")
-    else:
-        sayuri = choice(sayuris)
-        sayuris.remove(sayuri)
-    client.files_download_to_file(sayuri.name, sayuri.path_display)
-    msg = await ctx.channel.send(f'Faltam {len(sayuris)} para o reset', file=discord.File(sayuri.name))
-    msg
-    os.remove(sayuri.name)
-
-
 @bot.command(description='Mostra uma foto aleatoria de churrasco')
 async def churrasco(ctx):
     global carnes
@@ -272,26 +242,6 @@ async def churrasco(ctx):
     msg
     os.remove(carne.name)
     
-
-
-@bot.command(description='Mostra uma foto aleatoria da Julia Mayumi')
-async def mayumi(ctx):
-    global mayumis
-    if len(mayumis) == 0:
-        mayumis = [mayumi for mayumi in client.files_list_folder('/simple_images/mayumi lol').entries]
-        mayumi = choice(mayumis)
-        mayumis.remove(mayumi)
-        await ctx.channel.send("As imagens foram resetadas")
-    else:
-        mayumi = choice(mayumis)
-        mayumis.remove(mayumi)
-    client.files_download_to_file(mayumi.name, mayumi.path_display)
-    msg = await ctx.channel.send(f'Faltam {len(mayumis)} para o reset', file=discord.File(mayumi.name))
-    msg
-    os.remove(mayumi.name)
-
-
-
 
 @bot.command(description='Mostra uma foto aleatoria da Mikasa Ackerman')
 async def mikasa(ctx):
@@ -566,36 +516,34 @@ async def floodar(ctx, *args):
 async def encerrar_votacao(ctx):
     global msg_vot
     msg_vot = await ctx.channel.fetch_message(msg_vot.id)
-    #msg_vot = await ctx.channel.fetch_message(715853586340380743)
     print(msg_vot.content)
-    #print(msg_vot.reactions.emoji)
     reacoes_count = {str(reacao.emoji): reacao.count for reacao in msg_vot.reactions}
-    #await ctx.channel.send(reacoes_count)
     contador = Counter(reacoes_count).most_common()
     vencedor = contador[0][0]
     votos_vencedor = contador[0][1]
     filme_ve = reacoes.index(vencedor)
-    #await ctx.channel.send(filme_ve)
-    #await ctx.channel.send(type(filmes))
-    #await ctx.channel.send(filmes)
     await ctx.channel.send(f'O vencedor foi: {list(filmes[filme_ve].keys())[0]} com {votos_vencedor - 1} voto(s)')
 
 @bot.command(description='Busca uma imagem de rule34.xxx')
 async def rule34(ctx, *args):
-    r1 = r34.Sync()#(None)
+    global r
     arg = ' '.join(args)
     try:
-        img = r1.getImages(arg)#await r.getImages(arg)
+        img = await r.getImages(arg)
         img = choice(img).file_url
-        img = r1.download(img)#await r.download(img)
+        img = await r.download(img)
         await ctx.channel.send(file=discord.File(img))
         os.remove(img)
-    except:
+    except Exception as e:
+        print(e)
         await ctx.channel.send(f"Nao foi possivel encontrar {arg}")
-	
 
 @bot.event
 async def on_ready():
-    print("O bot principal 13 esta sendo executado")
+    print("O bot esta sendo executado")
 
-asyncio.run_coroutine_threadsafe(bot.run(tk))
+@bot.event
+async def on_command_error(ctx, error):
+    await ctx.channel.send(f"{error}", file=discord.File("tumblr_pi7ji3i2FG1sz8qcto3_400.png"))
+r = r34.Rule34(None)
+bot.run(tk)
