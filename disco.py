@@ -1,13 +1,12 @@
 ﻿import discord
-import nest_asyncio
+import asyncio
 import googlesearch as gl
 import requests as rq
 from bs4 import BeautifulSoup as BS
 from discord.ext import commands
-from random import choice
+from random import choice, seed
 from collections import Counter
 from resq import Filme
-nest_asyncio.apply()
 import os
 from time import sleep
 import datetime
@@ -157,8 +156,9 @@ async def gostosa(ctx):
         for role in pessoa.roles:
             if role.id == gostosas_id:
                 gostosas.append(pessoa)
+    print([pessoa for pessoa in ctx.guild.members])
     a_gostosa = choice(gostosas)
-    await ctx.channel.send(f'<@{a_gostosa.id}> é a mais gostosa do {ctx.guild.name}')
+    #await ctx.channel.send(f'<@{a_gostosa.id}> é a mais gostosa do {ctx.guild.name}')
 
 
 
@@ -172,6 +172,7 @@ async def gostoso(ctx):
             if role.id == gostosos_id:
                 gostosos.append(pessoa)
     o_gostoso = choice(gostosos)
+    print([i.name for i in gostosos])
     await ctx.channel.send(f'<@{o_gostoso.id}> é o mais gostoso do {ctx.guild.name}')
 
 
@@ -424,44 +425,57 @@ async def giorno(ctx):
 
 @bot.command(description='Geme igual hentai')
 async def ahegao(ctx):
-    global hentais
-    hentai = choice(hentais)
-    pessoa = ctx.author
-    canal = pessoa.voice.channel
-    client.files_download_to_file(hentai.name, hentai.path_display)
-    try:
-        client1 = await canal.connect()
-        client1
-        client1.play(discord.FFmpegPCMAudio(hentai.name))
-        print(os.getcwd())
-        while client1.is_playing():
-            sleep(1)
-        await client1.disconnect()
-    except:
-        await ctx.channel.send(f'{pessoa.mention} seu merda, vc ta me quebrando')
-    os.remove(hentai.name)
+	global hentais
+	hentai = choice(hentais)
+	client.files_download_to_file(hentai.name, hentai.path_display)
+	pessoa = ctx.author
+	canal = pessoa.voice.channel
+	try:
+		client1 = await canal.connect()
+		source = await discord.FFmpegOpusAudio.from_probe(hentai.name)
+		client1.play(source)
+		print(os.getcwd())
+		while client1.is_playing():
+			await asyncio.sleep(1)
+		await client1.disconnect()
+	except:
+		await ctx.channel.send(f'{pessoa.mention} seu merda, vc ta me quebrando')
+	os.remove(hentai.name)
     
-
+@bot.command(description='corote')
+async def corote(ctx):
+	pessoa = ctx.author
+	canal = pessoa.voice.channel
+	try:
+		client1 = await canal.connect()
+		source = await discord.FFmpegOpusAudio.from_probe('corote.mp3')
+		client1.play(source)
+		print(os.getcwd())
+		while client1.is_playing():
+			await asyncio.sleep(1)
+		await client1.disconnect()
+	except:
+		await ctx.channel.send(f'{pessoa.mention} seu merda, vc ta me quebrando')
 
 
 @bot.command(description='Skylab')
 async def skylab(ctx):
-    global skylabs
-    mus = choice(skylabs)
-    pessoa = ctx.author
-    canal = pessoa.voice.channel
-    client.files_download_to_file(mus.name, mus.path_display)
-    try:
-        client1 = await canal.connect()
-        client1
-        client1.play(discord.FFmpegPCMAudio(mus.name))
-        print(os.getcwd())
-        while client1.is_playing():
-            sleep(1)
-        await client1.disconnect()
-    except:
-        await ctx.channel.send(f'{pessoa.mention} seu merda, vc ta me quebrando')
-    os.remove(mus.name)
+	global skylabs
+	mus = choice(skylabs)
+	pessoa = ctx.author
+	canal = pessoa.voice.channel
+	client.files_download_to_file(mus.name, mus.path_display)
+	try:
+		client1 = await canal.connect()
+		source = await discord.FFmpegOpusAudio.from_probe(hentai.name)
+		client1.play(source)
+		print(os.getcwd())
+		while client1.is_playing():
+			await asyncio.sleep(1)
+		await client1.disconnect()
+	except:
+		await ctx.channel.send(f'{pessoa.mention} seu merda, vc ta me quebrando')
+	os.remove(mus.name)
 
 
 
@@ -538,12 +552,92 @@ async def rule34(ctx, *args):
         print(e)
         await ctx.channel.send(f"Nao foi possivel encontrar {arg}")
 
+@bot.command(description='rato')
+async def rato(ctx):
+    msg = await ctx.channel.send(file=discord.File("VIDEO-2020-04-21-01-19-13.mp4"))
+    msg
+
+@bot.command(description='cavalo')
+async def cavalo(ctx):
+    msg = await ctx.channel.send(file=discord.File("WhatsApp Video 2020-03-29 at 03.29.48.mp4"))
+    msg
+
+@bot.command(description='so vale no spacedogs id_pessoa/patente (spacegirl/spacedog)')
+async def remove(ctx):
+    if ctx.author.id == 250008522454990848 or ctx.author.id == 235490273843478529:
+        try:
+            mensagem = ctx.message.content.split(" ")
+            server = bot.get_guild(254326088002437122)
+            spacegirl = server.get_role(696894726485442580)
+            spacedog = server.get_role(550176858717552642)
+            pessoa = server.get_member(int(mensagem[-2]))
+            if mensagem[-1] == 'spacegirl':
+                await pessoa.remove_roles(spacegirl)
+                try:
+                    await pessoa.remove_roles(spacegod)
+                except Exception as e:
+                    print(e)
+            if mensagem[-1] == 'spacedog':
+                await pessoa.remove_roles(spacedog)
+        except Exception as ee:
+            print(ee)
+    else:
+        await ctx.channel.send(f"vc nao pode fazer isso, vsf")
+
+@bot.command(description='B A N I D O')
+async def banido(ctx):
+	pessoa = ctx.author
+	print(pessoa)
+	canal = pessoa.voice.channel
+	pessoas = []
+	pessoas = canal.members
+	print([i.name for i in pessoas])
+	kick = choice(pessoas)
+	try:
+		client1 = await canal.connect()
+		source = await discord.FFmpegOpusAudio.from_probe("banido.mp3")
+		client1.play(source)
+		print(os.getcwd())
+		while client1.is_playing():
+			await asyncio.sleep(1)
+		await kick.edit(voice_channel=None)
+		await client1.disconnect()
+		try:
+			with open('log_banido.txt', 'a') as log:
+				log.write(f'Pessoa: {pessoa.name}\nID Pessoa: {pessoa.id}\nPessoa Kickada: {kick.name}\nPessoa Kickada ID: {kick.id}\nNome Server: {ctx.guild.name}\nID Server: {ctx.guild.id}\nData: {datetime.datetime.now().strftime("%H:%M:%S - %d/%m/%Y")}\n------------------------------\n')
+		except:
+			with open('log_banido.txt', 'a') as log:
+				log.write(f'ID Pessoa: {pessoa.id}\nID Pessoa Kickada: {kick.id}\nNome Server: {ctx.guild.name}\nID Server: {ctx.guild.id}\nData: {datetime.datetime.now().strftime("%H:%M:%S - %d/%m/%Y")}\n------------------------------\n')
+	except:
+		await ctx.channel.send(f'{pessoa.mention} seu merda, vc ta me quebrando')
+
+
+@bot.command(description='so vale no spacedogs id_pessoa/patente (spacegirl/spacedog)')
+async def adiciona(ctx):
+    if ctx.author.id == 250008522454990848 or ctx.author.id == 235490273843478529:
+        try:
+            mensagem = ctx.message.content.split(" ")
+            server = bot.get_guild(254326088002437122)
+            spacegirl = server.get_role(696894726485442580)
+            spacedog = server.get_role(550176858717552642)
+            pessoa = server.get_member(int(mensagem[-2]))
+            if mensagem[-1] == 'spacegirl':
+                await pessoa.add_roles(spacegirl)
+            if mensagem[-1] == 'spacedog':
+                await pessoa.add_roles(spacedog)
+        except Exception as ee:
+            print(ee)
+    else:
+        await ctx.channel.send(f"vc nao pode fazer isso, vsf")
+    
+
 @bot.event
 async def on_ready():
     print("O bot esta sendo executado")
-
+"""
 @bot.event
 async def on_command_error(ctx, error):
     await ctx.channel.send(f"{error}", file=discord.File("tumblr_pi7ji3i2FG1sz8qcto3_400.png"))
+"""
 r = r34.Rule34(None)
 bot.run(tk)

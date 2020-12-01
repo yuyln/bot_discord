@@ -1,18 +1,3 @@
-"""
-filmes = []
-while True:
-    filme = input('nome do filme: ')
-    if filme != 'sair':
-        filmes.append(Filme(filme))
-    else:
-        break
-
-ratings = [filme.rotten() for filme in filmes]
-for filme in filmes:
-    print(f'{filme.tit} {filme.rotten()}')
-"""
-
-
 import googlesearch as gl
 import requests as rq
 from bs4 import BeautifulSoup as BS

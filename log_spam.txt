@@ -70,3 +70,282 @@ Nome Server: server bot
 ID Server: 714727821385138217
 Data: 04:18:30 - 12/07/2020
 ------------------------------
+Mensagem: !gordao
+Mensagem ID:739409851649753129
+Quantidade: 30
+Pessoa: loloo_chan
+ID Pessoa: 398672598713761792
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 06:10:42 - 02/08/2020
+------------------------------
+Mensagem: <@!302254856847097857>
+Mensagem ID:760706173892165664
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:34:32 - 30/09/2020
+------------------------------
+Mensagem: <@!302254856847097857>
+Mensagem ID:760706217726705735
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:34:43 - 30/09/2020
+------------------------------
+Mensagem: <@!302254856847097857>
+Mensagem ID:760706225406738453
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:34:45 - 30/09/2020
+------------------------------
+Mensagem: <@!302254856847097857>
+Mensagem ID:760706229726871572
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:34:46 - 30/09/2020
+------------------------------
+Mensagem: <@!302254856847097857>
+Mensagem ID:760706232708235345
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:34:46 - 30/09/2020
+------------------------------
+Mensagem: <@!302254856847097857>
+Mensagem ID:760706235912683612
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:34:47 - 30/09/2020
+------------------------------
+Mensagem: <@!373624093666181132>
+Mensagem ID:760706462065885224
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:35:41 - 30/09/2020
+------------------------------
+Mensagem: <@!373624093666181132>
+Mensagem ID:760706465584775188
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:35:42 - 30/09/2020
+------------------------------
+Mensagem: <@!373624093666181132>
+Mensagem ID:760706468873371669
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:35:43 - 30/09/2020
+------------------------------
+Mensagem: <@!373624093666181132>
+Mensagem ID:760706472631599125
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:35:44 - 30/09/2020
+------------------------------
+Mensagem: <@!373624093666181132>
+Mensagem ID:760706659776725052
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:36:28 - 30/09/2020
+------------------------------
+Mensagem: <@!373624093666181132>
+Mensagem ID:760706663610449941
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:36:29 - 30/09/2020
+------------------------------
+Mensagem: <@!373624093666181132>
+Mensagem ID:760706667444305950
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:36:30 - 30/09/2020
+------------------------------
+Mensagem: <@!373624093666181132>
+Mensagem ID:760706818682519562
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:37:06 - 30/09/2020
+------------------------------
+Mensagem: <@!373624093666181132>
+Mensagem ID:760706828304121896
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:37:08 - 30/09/2020
+------------------------------
+Mensagem: <@!259873839343730688>
+Mensagem ID:760707503222161429
+Quantidade: 3000
+Pessoa: Gumc Melgs
+ID Pessoa: 302254856847097857
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:39:49 - 30/09/2020
+------------------------------
+Mensagem: <@!259873839343730688>
+Mensagem ID:760707635531612162
+Quantidade: 30
+Pessoa: Gumc Melgs
+ID Pessoa: 302254856847097857
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:40:21 - 30/09/2020
+------------------------------
+Mensagem: <@!559885076637155338>
+Mensagem ID:760707718369247235
+Quantidade: 30
+Pessoa: Gumc Melgs
+ID Pessoa: 302254856847097857
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:40:41 - 30/09/2020
+------------------------------
+Mensagem: <@!387389281074675723>
+Mensagem ID:760707817962471464
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:41:04 - 30/09/2020
+------------------------------
+Mensagem: <@!387389281074675723>
+Mensagem ID:760707820592168980
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:41:05 - 30/09/2020
+------------------------------
+Mensagem: <@!387389281074675723>
+Mensagem ID:760707824123904010
+Quantidade: 30
+Pessoa: lucas kk
+ID Pessoa: 259873839343730688
+Nome Server: MANEIRAÇOS DE VERDADE
+ID Server: 365282834878824448
+Data: 00:41:06 - 30/09/2020
+------------------------------
+Mensagem: penis
+Mensagem ID:775179196170502184
+Quantidade: 5
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:05:16 - 08/11/2020
+------------------------------
+Mensagem: !banido
+Mensagem ID:775179228659974165
+Quantidade: 10
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:05:24 - 08/11/2020
+------------------------------
+Mensagem: !rato
+Mensagem ID:775182880224706561
+Quantidade: 25
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:19:54 - 08/11/2020
+------------------------------
+Mensagem: !ajuda
+Mensagem ID:775184041170829363
+Quantidade: 15
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:24:31 - 08/11/2020
+------------------------------
+Mensagem: !corote
+Mensagem ID:775184188437299201
+Quantidade: 5
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:25:06 - 08/11/2020
+------------------------------
+Mensagem: -p oi
+Mensagem ID:775184235862032415
+Quantidade: 5
+Pessoa: Nysdruid
+ID Pessoa: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:25:17 - 08/11/2020
+------------------------------
+Mensagem: agusto gay
+Mensagem ID:775185739935514634
+Quantidade: 5
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:31:16 - 08/11/2020
+------------------------------
+Mensagem: <@!235490273843478529>
+Mensagem ID:779506089652781077
+Quantidade: 15
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:38:53 - 20/11/2020
+------------------------------
+Mensagem: <@!235490273843478529>
+Mensagem ID:779506195970129920
+Quantidade: 20
+Pessoa: Nysdruid
+ID Pessoa: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:39:18 - 20/11/2020
+------------------------------

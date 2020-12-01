@@ -1,0 +1,1902 @@
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:27:29 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Yugo
+Pessoa Kickada ID: 151242511518662656
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:29:18 - 01/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: Yugo
+Pessoa Kickada ID: 151242511518662656
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:31:31 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 14:33:18 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:14:32 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:14:52 - 01/11/2020
+------------------------------
+Pessoa: mikeDonalds
+ID Pessoa: 333405012212449281
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:46:49 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 17:09:27 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 17:09:49 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 17:10:46 - 01/11/2020
+------------------------------
+Pessoa: Pedro Maia
+ID Pessoa: 266376096939769857
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 17:11:20 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Björn
+Pessoa Kickada ID: 451616782357233675
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 17:12:29 - 01/11/2020
+------------------------------
+Pessoa: Enrico
+ID Pessoa: 249350041855197215
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 17:20:31 - 01/11/2020
+------------------------------
+Pessoa: Pedro Maia
+ID Pessoa: 266376096939769857
+Pessoa Kickada: Pedro Maia
+Pessoa Kickada ID: 266376096939769857
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 17:22:22 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:47:19 - 01/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:47:29 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:49:46 - 01/11/2020
+------------------------------
+Pessoa: Nysdruid
+ID Pessoa: 286615676045623296
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:50:02 - 01/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:50:15 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:50:35 - 01/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:50:42 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:51:37 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:51:46 - 01/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:51:54 - 01/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: Gomes
+Pessoa Kickada ID: 259060260856266752
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:52:17 - 01/11/2020
+------------------------------
+Pessoa: tia
+ID Pessoa: 307871782629801986
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 19:06:38 - 01/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 19:31:05 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 19:53:00 - 01/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 19:57:15 - 01/11/2020
+------------------------------
+Pessoa: Pedro Maia
+ID Pessoa: 266376096939769857
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 19:57:46 - 01/11/2020
+------------------------------
+Pessoa: Pedro Maia
+ID Pessoa: 266376096939769857
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 19:58:03 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Pedro Maia
+Pessoa Kickada ID: 266376096939769857
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 20:00:21 - 01/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:59:10 - 01/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:18:53 - 01/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 00:13:26 - 02/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 00:51:15 - 02/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 02:16:01 - 02/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 02:16:14 - 02/11/2020
+------------------------------
+Pessoa: Nysdruid
+ID Pessoa: 286615676045623296
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 02:16:38 - 02/11/2020
+------------------------------
+Pessoa: Nysdruid
+ID Pessoa: 286615676045623296
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 02:17:28 - 02/11/2020
+------------------------------
+Pessoa: tia
+ID Pessoa: 307871782629801986
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 03:45:59 - 02/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 06:01:32 - 02/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 06:01:52 - 02/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Yugo
+Pessoa Kickada ID: 151242511518662656
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:49:10 - 02/11/2020
+------------------------------
+Pessoa: Yugo
+ID Pessoa: 151242511518662656
+Pessoa Kickada: .JoãoQueiroz
+Pessoa Kickada ID: 243916248826642432
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:49:54 - 02/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Yugo
+Pessoa Kickada ID: 151242511518662656
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:51:01 - 02/11/2020
+------------------------------
+Pessoa: .JoãoQueiroz
+ID Pessoa: 243916248826642432
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:51:20 - 02/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: .JoãoQueiroz
+Pessoa Kickada ID: 243916248826642432
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 16:59:54 - 02/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Enrico
+Pessoa Kickada ID: 249350041855197215
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:10:20 - 02/11/2020
+------------------------------
+Pessoa: Yugo
+ID Pessoa: 151242511518662656
+Pessoa Kickada: Yugo
+Pessoa Kickada ID: 151242511518662656
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 20:01:14 - 02/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:23:31 - 02/11/2020
+------------------------------
+Pessoa: Yugo
+ID Pessoa: 151242511518662656
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 01:37:19 - 03/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 13:41:59 - 03/11/2020
+------------------------------
+Pessoa: Macacagem
+ID Pessoa: 344598689131790336
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 10:18:27 - 05/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:12:38 - 05/11/2020
+------------------------------
+Pessoa: samerson
+ID Pessoa: 340680969411362828
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 19:04:22 - 05/11/2020
+------------------------------
+Pessoa: Macacagem
+ID Pessoa: 344598689131790336
+Pessoa Kickada: Groovy
+Pessoa Kickada ID: 234395307759108106
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 20:48:08 - 05/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: server bot
+ID Server: 714727821385138217
+Data: 23:20:31 - 05/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:23:44 - 05/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:24:07 - 05/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: server bot
+ID Server: 714727821385138217
+Data: 23:31:49 - 05/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:40:52 - 05/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: server bot
+ID Server: 714727821385138217
+Data: 23:43:02 - 05/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: server bot
+ID Server: 714727821385138217
+Data: 23:43:14 - 05/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: server bot
+ID Server: 714727821385138217
+Data: 23:43:45 - 05/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:51:43 - 05/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: Pedro Maia
+Pessoa Kickada ID: 266376096939769857
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 02:52:54 - 07/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Yugo
+Pessoa Kickada ID: 151242511518662656
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 02:53:20 - 07/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Pedro Maia
+Pessoa Kickada ID: 266376096939769857
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 02:53:49 - 07/11/2020
+------------------------------
+Pessoa: Pedro Maia
+ID Pessoa: 266376096939769857
+Pessoa Kickada: Yugo
+Pessoa Kickada ID: 151242511518662656
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 02:54:46 - 07/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:45:11 - 07/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: IKamada
+Pessoa Kickada ID: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:46:51 - 07/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: Pedro Maia
+Pessoa Kickada ID: 266376096939769857
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 01:47:02 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: IKamada
+Pessoa Kickada ID: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 10:35:35 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: .JoãoQueiroz
+Pessoa Kickada ID: 243916248826642432
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 16:21:00 - 08/11/2020
+------------------------------
+Pessoa: .JoãoQueiroz
+ID Pessoa: 243916248826642432
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 16:21:19 - 08/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:41:07 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Xinj
+Pessoa Kickada ID: 208042364902703105
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:41:21 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:41:40 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Fromm
+Pessoa Kickada ID: 451616782357233675
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:41:51 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Enrico
+Pessoa Kickada ID: 249350041855197215
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:42:02 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:42:43 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:43:19 - 08/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:56:07 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:56:27 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:57:20 - 08/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Vick
+Pessoa Kickada ID: 426588880217571329
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:57:56 - 08/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: IKamada
+Pessoa Kickada ID: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:58:05 - 08/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:58:12 - 08/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:58:47 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Groovy
+Pessoa Kickada ID: 234395307759108106
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:00:08 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:00:38 - 08/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: Enrico
+Pessoa Kickada ID: 249350041855197215
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:00:44 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Fromm
+Pessoa Kickada ID: 451616782357233675
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:03:57 - 08/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: IKamada
+Pessoa Kickada ID: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:05:40 - 08/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: Enrico
+Pessoa Kickada ID: 249350041855197215
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:06:53 - 08/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:07:05 - 08/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:07:26 - 08/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:07:53 - 08/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:08:16 - 08/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: Enrico
+Pessoa Kickada ID: 249350041855197215
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:08:28 - 08/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: IKamada
+Pessoa Kickada ID: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:09:16 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Xinj
+Pessoa Kickada ID: 208042364902703105
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:09:30 - 08/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Xinj
+Pessoa Kickada ID: 208042364902703105
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:12:16 - 08/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:12:27 - 08/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:12:45 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:16:57 - 08/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:17:52 - 08/11/2020
+------------------------------
+Pessoa: Enrico
+ID Pessoa: 249350041855197215
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:19:43 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:21:19 - 08/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:23:30 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Enrico
+Pessoa Kickada ID: 249350041855197215
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:24:17 - 08/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:24:43 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:24:51 - 08/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:25:08 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:25:55 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Pedro Maia
+Pessoa Kickada ID: 266376096939769857
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:26:57 - 08/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: IKamada
+Pessoa Kickada ID: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:27:39 - 08/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: .JoãoQueiroz
+Pessoa Kickada ID: 243916248826642432
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:28:28 - 08/11/2020
+------------------------------
+Pessoa: .JoãoQueiroz
+ID Pessoa: 243916248826642432
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:29:16 - 08/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: .JoãoQueiroz
+Pessoa Kickada ID: 243916248826642432
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:30:29 - 08/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: IKamada
+Pessoa Kickada ID: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:31:04 - 08/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: .JoãoQueiroz
+Pessoa Kickada ID: 243916248826642432
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:32:37 - 08/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:32:53 - 08/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:33:12 - 08/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: .JoãoQueiroz
+Pessoa Kickada ID: 243916248826642432
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:33:33 - 08/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:33:53 - 08/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: .JoãoQueiroz
+Pessoa Kickada ID: 243916248826642432
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:34:09 - 08/11/2020
+------------------------------
+Pessoa: .JoãoQueiroz
+ID Pessoa: 243916248826642432
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:34:24 - 08/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:34:38 - 08/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:34:48 - 08/11/2020
+------------------------------
+Pessoa: .JoãoQueiroz
+ID Pessoa: 243916248826642432
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:35:06 - 08/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: Vick
+Pessoa Kickada ID: 426588880217571329
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:35:24 - 08/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 00:08:40 - 09/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:50:32 - 09/11/2020
+------------------------------
+Pessoa: samerson
+ID Pessoa: 340680969411362828
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 11:14:17 - 10/11/2020
+------------------------------
+Pessoa: samerson
+ID Pessoa: 340680969411362828
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 12:11:37 - 10/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 12:26:55 - 10/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Vick
+Pessoa Kickada ID: 426588880217571329
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 20:37:20 - 10/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 20:37:41 - 10/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: Vick
+Pessoa Kickada ID: 426588880217571329
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 20:37:53 - 10/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Vick
+Pessoa Kickada ID: 426588880217571329
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 20:39:22 - 10/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 20:39:48 - 10/11/2020
+------------------------------
+Pessoa: samerson
+ID Pessoa: 340680969411362828
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:11:32 - 10/11/2020
+------------------------------
+Pessoa: Pedro Maia
+ID Pessoa: 266376096939769857
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:28:00 - 10/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 02:06:26 - 12/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:16:13 - 12/11/2020
+------------------------------
+Pessoa: Macacagem
+ID Pessoa: 344598689131790336
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 16:12:47 - 12/11/2020
+------------------------------
+Pessoa: Macacagem
+ID Pessoa: 344598689131790336
+Pessoa Kickada: Macacagem
+Pessoa Kickada ID: 344598689131790336
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 16:13:00 - 12/11/2020
+------------------------------
+Pessoa: Nysdruid
+ID Pessoa: 286615676045623296
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:50:08 - 12/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:50:25 - 12/11/2020
+------------------------------
+Pessoa: Vick
+ID Pessoa: 426588880217571329
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:50:41 - 12/11/2020
+------------------------------
+Pessoa: Macacagem
+ID Pessoa: 344598689131790336
+Pessoa Kickada: Macacagem
+Pessoa Kickada ID: 344598689131790336
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:53:19 - 12/11/2020
+------------------------------
+Pessoa: Macacagem
+ID Pessoa: 344598689131790336
+Pessoa Kickada: Vick
+Pessoa Kickada ID: 426588880217571329
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:53:30 - 12/11/2020
+------------------------------
+Pessoa: samerson
+ID Pessoa: 340680969411362828
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 19:04:06 - 12/11/2020
+------------------------------
+Pessoa: Macacagem
+ID Pessoa: 344598689131790336
+Pessoa Kickada: Macacagem
+Pessoa Kickada ID: 344598689131790336
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:40:48 - 12/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:24:06 - 13/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: Lypp
+Pessoa Kickada ID: 415184217924829194
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:24:18 - 13/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: André2313
+Pessoa Kickada ID: 471377640817688577
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:24:32 - 13/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:24:54 - 13/11/2020
+------------------------------
+Pessoa: André2313
+ID Pessoa: 471377640817688577
+Pessoa Kickada: mic. Andre
+Pessoa Kickada ID: 749143764173324328
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:27:36 - 13/11/2020
+------------------------------
+Pessoa: André2313
+ID Pessoa: 471377640817688577
+Pessoa Kickada: Lypp
+Pessoa Kickada ID: 415184217924829194
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:29:11 - 13/11/2020
+------------------------------
+Pessoa: André2313
+ID Pessoa: 471377640817688577
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:34:12 - 13/11/2020
+------------------------------
+Pessoa: André2313
+ID Pessoa: 471377640817688577
+Pessoa Kickada: Esposa do Jose, maltratar=ban
+Pessoa Kickada ID: 714718909323935774
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:34:18 - 13/11/2020
+------------------------------
+Pessoa: .JoãoQueiroz
+ID Pessoa: 243916248826642432
+Pessoa Kickada: mikeDonalds
+Pessoa Kickada ID: 333405012212449281
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 20:15:09 - 14/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: .JoãoQueiroz
+Pessoa Kickada ID: 243916248826642432
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 20:15:35 - 14/11/2020
+------------------------------
+Pessoa: .JoãoQueiroz
+ID Pessoa: 243916248826642432
+Pessoa Kickada: JeeDee
+Pessoa Kickada ID: 243135241273868290
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 16:17:40 - 15/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 16:23:56 - 15/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: JeeDee
+Pessoa Kickada ID: 243135241273868290
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 20:42:25 - 15/11/2020
+------------------------------
+Pessoa: Macacagem
+ID Pessoa: 344598689131790336
+Pessoa Kickada: Macacagem
+Pessoa Kickada ID: 344598689131790336
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 20:42:43 - 15/11/2020
+------------------------------
+Pessoa: Yugo
+ID Pessoa: 151242511518662656
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:48:22 - 16/11/2020
+------------------------------
+Pessoa: Yugo
+ID Pessoa: 151242511518662656
+Pessoa Kickada: Yugo
+Pessoa Kickada ID: 151242511518662656
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:48:48 - 16/11/2020
+------------------------------
+Pessoa: olny devid
+ID Pessoa: 677748711035502605
+Pessoa Kickada: olny devid
+Pessoa Kickada ID: 677748711035502605
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:49:04 - 16/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Yugo
+Pessoa Kickada ID: 151242511518662656
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:57:54 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: tia
+Pessoa Kickada ID: 307871782629801986
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:58:02 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:58:09 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: tia
+Pessoa Kickada ID: 307871782629801986
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:58:16 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: tia
+Pessoa Kickada ID: 307871782629801986
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:58:24 - 17/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: tia
+Pessoa Kickada ID: 307871782629801986
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:58:40 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:58:54 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:59:19 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 15:59:30 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 16:06:47 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 17:46:39 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:45:12 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: tia
+Pessoa Kickada ID: 307871782629801986
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:45:18 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:45:25 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:45:32 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:45:42 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Pedro Maia
+Pessoa Kickada ID: 266376096939769857
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:45:51 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:45:58 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:46:07 - 17/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:46:16 - 17/11/2020
+------------------------------
+Pessoa: tia
+ID Pessoa: 307871782629801986
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:46:27 - 17/11/2020
+------------------------------
+Pessoa: tia
+ID Pessoa: 307871782629801986
+Pessoa Kickada: tia
+Pessoa Kickada ID: 307871782629801986
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:46:34 - 17/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Vick
+Pessoa Kickada ID: 426588880217571329
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:54:36 - 17/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: Esposa do Jose, maltratar=ban
+Pessoa Kickada ID: 714718909323935774
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 00:49:52 - 18/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 00:51:03 - 18/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 00:51:17 - 18/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: samerson
+Pessoa Kickada ID: 340680969411362828
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 00:51:33 - 18/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: tia
+Pessoa Kickada ID: 307871782629801986
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:57:40 - 19/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:57:47 - 19/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:57:56 - 19/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:58:16 - 19/11/2020
+------------------------------
+Pessoa: Carlo
+ID Pessoa: 286611202304638977
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 19:00:39 - 19/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:28:04 - 20/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Pedro Maia
+Pessoa Kickada ID: 266376096939769857
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:28:18 - 20/11/2020
+------------------------------
+Pessoa: Pedro Maia
+ID Pessoa: 266376096939769857
+Pessoa Kickada: johnsy
+Pessoa Kickada ID: 399714026684284928
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:35:02 - 20/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: loloo_chan
+Pessoa Kickada ID: 398672598713761792
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:37:58 - 20/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Enrico
+Pessoa Kickada ID: 249350041855197215
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:38:09 - 20/11/2020
+------------------------------
+Pessoa: Nysdruid
+ID Pessoa: 286615676045623296
+Pessoa Kickada: Carlo
+Pessoa Kickada ID: 286611202304638977
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:40:25 - 20/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: Enrico
+Pessoa Kickada ID: 249350041855197215
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:40:36 - 20/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: loloo_chan
+Pessoa Kickada ID: 398672598713761792
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:40:41 - 20/11/2020
+------------------------------
+Pessoa: loloo_chan
+ID Pessoa: 398672598713761792
+Pessoa Kickada: IKamada
+Pessoa Kickada ID: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:41:07 - 20/11/2020
+------------------------------
+Pessoa: loloo_chan
+ID Pessoa: 398672598713761792
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:41:18 - 20/11/2020
+------------------------------
+Pessoa: Nysdruid
+ID Pessoa: 286615676045623296
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:41:35 - 20/11/2020
+------------------------------
+Pessoa: Nysdruid
+ID Pessoa: 286615676045623296
+Pessoa Kickada: Pedro Maia
+Pessoa Kickada ID: 266376096939769857
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:42:10 - 20/11/2020
+------------------------------
+Pessoa: Pedro Maia
+ID Pessoa: 266376096939769857
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:42:26 - 20/11/2020
+------------------------------
+Pessoa: Nysdruid
+ID Pessoa: 286615676045623296
+Pessoa Kickada: Beto
+Pessoa Kickada ID: 235490273843478529
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 21:44:07 - 20/11/2020
+------------------------------
+Pessoa: Jose Souza
+ID Pessoa: 250008522454990848
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 01:14:37 - 21/11/2020
+------------------------------
+ID Pessoa: 250008522454990848
+ID Pessoa Kickada: 151242511518662656
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 03:49:07 - 21/11/2020
+------------------------------
+Pessoa: IKamada
+ID Pessoa: 398325331225739275
+Pessoa Kickada: Enrico
+Pessoa Kickada ID: 249350041855197215
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 03:50:01 - 21/11/2020
+------------------------------
+Pessoa: Pedro Maia
+ID Pessoa: 266376096939769857
+Pessoa Kickada: Enrico
+Pessoa Kickada ID: 249350041855197215
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 03:52:04 - 21/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: IKamada
+Pessoa Kickada ID: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:18:11 - 22/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: IKamada
+Pessoa Kickada ID: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 04:26:11 - 22/11/2020
+------------------------------
+Pessoa: loloo_chan
+ID Pessoa: 398672598713761792
+Pessoa Kickada: Nysdruid
+Pessoa Kickada ID: 286615676045623296
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:06:43 - 22/11/2020
+------------------------------
+Pessoa: loloo_chan
+ID Pessoa: 398672598713761792
+Pessoa Kickada: JeeDee
+Pessoa Kickada ID: 243135241273868290
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:07:06 - 22/11/2020
+------------------------------
+Pessoa: Nysdruid
+ID Pessoa: 286615676045623296
+Pessoa Kickada: loloo_chan
+Pessoa Kickada ID: 398672598713761792
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:09:03 - 22/11/2020
+------------------------------
+Pessoa: loloo_chan
+ID Pessoa: 398672598713761792
+Pessoa Kickada: IKamada
+Pessoa Kickada ID: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:09:47 - 22/11/2020
+------------------------------
+Pessoa: loloo_chan
+ID Pessoa: 398672598713761792
+Pessoa Kickada: IKamada
+Pessoa Kickada ID: 398325331225739275
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 22:37:11 - 22/11/2020
+------------------------------
+Pessoa: loloo_chan
+ID Pessoa: 398672598713761792
+Pessoa Kickada: Enrico
+Pessoa Kickada ID: 249350041855197215
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 23:31:11 - 22/11/2020
+------------------------------
+Pessoa: .JoãoQueiroz
+ID Pessoa: 243916248826642432
+Pessoa Kickada: tia
+Pessoa Kickada ID: 307871782629801986
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 17:49:46 - 24/11/2020
+------------------------------
+Pessoa: Macacagem
+ID Pessoa: 344598689131790336
+Pessoa Kickada: Macacagem
+Pessoa Kickada ID: 344598689131790336
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 18:51:45 - 24/11/2020
+------------------------------
+Pessoa: jvmontilha
+ID Pessoa: 682120198165102643
+Pessoa Kickada: jvmontilha
+Pessoa Kickada ID: 682120198165102643
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 00:35:30 - 27/11/2020
+------------------------------
+Pessoa: augusto
+ID Pessoa: 136580480278593536
+Pessoa Kickada: moow
+Pessoa Kickada ID: 275365598660132874
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 00:58:08 - 27/11/2020
+------------------------------
+Pessoa: loloo_chan
+ID Pessoa: 398672598713761792
+Pessoa Kickada: augusto
+Pessoa Kickada ID: 136580480278593536
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 00:58:25 - 27/11/2020
+------------------------------
+Pessoa: loloo_chan
+ID Pessoa: 398672598713761792
+Pessoa Kickada: Jose Souza
+Pessoa Kickada ID: 250008522454990848
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 01:12:14 - 27/11/2020
+------------------------------
+Pessoa: moow
+ID Pessoa: 275365598660132874
+Pessoa Kickada: Pedro Maia
+Pessoa Kickada ID: 266376096939769857
+Nome Server: S P A C E D O G S
+ID Server: 254326088002437122
+Data: 01:12:39 - 27/11/2020
+------------------------------
